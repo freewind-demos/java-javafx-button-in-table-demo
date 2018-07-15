@@ -1,5 +1,4 @@
-JavaFX Table Demo
-=================
+JavaFX Button in Table Demo
+===========================
 
-Show a table with data.
-
+Add button to table cells.
